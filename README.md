@@ -1,23 +1,21 @@
-# 🎮 Nintendo Website Renewal Project
-
-닌텐도 웹사이트를 분석하여  
-콘텐츠 구조와 UI 흐름을 개선하고, 퍼블리싱 완성도를 높인 팀 프로젝트입니다.
+# 🎮닌텐도 리뉴얼 팀 프로젝트🎮
+> **닌텐도 웹사이트를 분석하여 콘텐츠 구조와 UI 흐름을 개선하고 퍼블리싱 완성도를 높인 팀 프로젝트입니다😊** <br>
 
 <br>
 
 ## 🔗 Project Links
 
-- 📄 **기획서**    
-  👉 [기획서 바로가기](https://www.figma.com/deck/6irwv1qNXooL2BzOl1OsOT)
+📄 **기획서**    
+👉 [기획서 바로가기](https://www.figma.com/deck/6irwv1qNXooL2BzOl1OsOT)
 
-- 🎨 **디자인**    
-  👉 [디자인 시안 페이지 바로가기](https://www.figma.com/design/SsP6DWrFjImVIl5autmaDN/%EC%97%90%EC%8A%A4%ED%8C%8C-%EB%8B%8C%ED%85%90%EB%8F%84%EB%A6%AC%EB%89%B4%EC%96%BC?node-id=0-1&t=1EGCoIr7S4DjklFw-1)
+🎨 **디자인**    
+👉 [디자인 시안 페이지 바로가기](https://www.figma.com/design/SsP6DWrFjImVIl5autmaDN/%EC%97%90%EC%8A%A4%ED%8C%8C-%EB%8B%8C%ED%85%90%EB%8F%84%EB%A6%AC%EB%89%B4%EC%96%BC?node-id=0-1&t=1EGCoIr7S4DjklFw-1)
 
-- 🌐 **배포 링크**  
-  👉 [리뉴얼 홈페이지 바로가기](https://wadzuswl.github.io/project04/)
+🌐 **배포 링크**  
+👉 [리뉴얼 홈페이지 바로가기](https://github.com/cookieo3o.io/nintendo-renewal)
 
-- 🕹️ **기존 홈페이지**  
-  👉 [기존 홈페이지 바로가기](https://www.nintendo.com/kr/)
+🕹️ **기존 홈페이지**  
+👉 [기존 홈페이지 바로가기](https://www.nintendo.com/kr/)
 
 <br>
 
